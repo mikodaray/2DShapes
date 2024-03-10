@@ -1,6 +1,8 @@
 FullName: Francis Mikhail T. Daray
 Application: 2D shapes
 Timebox: 2.5 Hours
+Framework: C# -.NET 6.0
+
 
 Assumptions: 
 	1.) Create an object structure that would implement requirements for shapes written below.

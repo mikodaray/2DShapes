@@ -191,17 +191,16 @@ namespace _2DShapes.Classes
                     Console.WriteLine("*********************");
                     foreach (Shape shape in Shapes)
                     {
-                        int counter = 0;
                         if (shape.Type == ShapeType.Circle)
                         {
-                            Console.WriteLine("* Name: " + counter++.ToString() + ") " + shape.Name + " - " + shape.Type.ToString());
+                            Console.WriteLine("* Name: " + shape.Name + " - " + shape.Type.ToString());
                             Console.WriteLine("* Perimeter: " + shape.Perimeter);
                             Console.WriteLine("* Surface Area: " + shape.SurfaceArea);
                             Console.WriteLine("*********************");
                         }
                         else
                         {
-                            Console.WriteLine("* Name: " + counter++.ToString() + " " + shape.Name + " - " + shape.Type.ToString());
+                            Console.WriteLine("* Name: " + " " + shape.Name + " - " + shape.Type.ToString());
                             Console.WriteLine("* Perimeter: " + shape.Perimeter);
                             Console.WriteLine("* Surface Area: " + shape.SurfaceArea);
 

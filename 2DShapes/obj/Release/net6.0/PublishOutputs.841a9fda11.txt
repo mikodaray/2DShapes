@@ -1,0 +1,5 @@
+D:\2DShapes\2DShapesPublished\2DShapes.exe
+D:\2DShapes\2DShapesPublished\2DShapes.dll
+D:\2DShapes\2DShapesPublished\2DShapes.deps.json
+D:\2DShapes\2DShapesPublished\2DShapes.runtimeconfig.json
+D:\2DShapes\2DShapesPublished\2DShapes.pdb
