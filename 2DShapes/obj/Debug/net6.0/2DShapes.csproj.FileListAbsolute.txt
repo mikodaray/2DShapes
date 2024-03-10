@@ -1,0 +1,15 @@
+C:\Code\2DShapes\2DShapes\bin\Debug\net6.0\2DShapes.exe
+C:\Code\2DShapes\2DShapes\bin\Debug\net6.0\2DShapes.deps.json
+C:\Code\2DShapes\2DShapes\bin\Debug\net6.0\2DShapes.runtimeconfig.json
+C:\Code\2DShapes\2DShapes\bin\Debug\net6.0\2DShapes.dll
+C:\Code\2DShapes\2DShapes\bin\Debug\net6.0\2DShapes.pdb
+C:\Code\2DShapes\2DShapes\obj\Debug\net6.0\2DShapes.csproj.AssemblyReference.cache
+C:\Code\2DShapes\2DShapes\obj\Debug\net6.0\2DShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\2DShapes\2DShapes\obj\Debug\net6.0\2DShapes.AssemblyInfoInputs.cache
+C:\Code\2DShapes\2DShapes\obj\Debug\net6.0\2DShapes.AssemblyInfo.cs
+C:\Code\2DShapes\2DShapes\obj\Debug\net6.0\2DShapes.csproj.CoreCompileInputs.cache
+C:\Code\2DShapes\2DShapes\obj\Debug\net6.0\2DShapes.dll
+C:\Code\2DShapes\2DShapes\obj\Debug\net6.0\refint\2DShapes.dll
+C:\Code\2DShapes\2DShapes\obj\Debug\net6.0\2DShapes.pdb
+C:\Code\2DShapes\2DShapes\obj\Debug\net6.0\2DShapes.genruntimeconfig.cache
+C:\Code\2DShapes\2DShapes\obj\Debug\net6.0\ref\2DShapes.dll
