@@ -1,4 +1,6 @@
 FullName: Francis Mikhail T. Daray
+Application: 2D shapes
+Timebox: 2.5 Hours
 
 Assumptions: 
 	1.) Create an object structure that would implement requirements for shapes written below.
@@ -9,6 +11,7 @@ Assumptions:
 Improvements:
 	1.) Being a simple implementation of basic 2D shapes, I think we can still add other properties to be derived from simple shapes, although Surface Area and Perimeter do seem like theyre the only properties for simple objects.
 	2.) We can identify properties such as corners and angles along with their length, and include them in the design to implement Irregularly shaped 2D Objects.
+	3.) Console Application might have a few issues as the timebox really limited me from testing it more.
 
 Description:
 
